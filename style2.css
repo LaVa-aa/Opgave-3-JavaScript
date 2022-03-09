@@ -1,0 +1,20 @@
+td, tr {
+    border: 0px solid #eb6385;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border-color:black;
+  }
+
+  tr:nth-child(even) {
+    background-color: #863d49;
+  }
+  tr:hover {background-color:lightpink;}
+
+  button{
+      background-color: #af4f5f;
+      color: black;
+      border-radius: 10px;
+      
+      
+  }
